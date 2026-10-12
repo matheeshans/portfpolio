@@ -17,8 +17,8 @@ export const profile = {
   email: "matheeshans@gmail.com",
   linkedin: "https://linkedin.com/in/matheeshan-sinnathamby-9026564918",
   linkedinLabel: "linkedin.com/in/matheeshan-sinnathamby",
-  portfolioUrl: "https://github.com/matheeshans/portfpolio",
-  portfolioLabel: "github.com/matheeshans/portfpolio",
+  portfolioUrl: "https://portfpolio-rho.vercel.app",
+  portfolioLabel: "portfpolio-rho.vercel.app",
   summary:
     "BSc (Hons) Computer Science graduate seeking a Full Stack Developer role, combining hands-on programming in Python, C++ and modern web technologies with a strong foundation in networking, cybersecurity and IT support. Recently certified in Digital Marketing, Effective Business Websites, AI for Business Professionals, Data Science & Analytics and more — bringing a well-rounded skill set across development, UX, SEO and analytics to build fast, secure, user-focused web applications.",
   workAuthorization: "Full-time right to work in the United Kingdom",
