@@ -49,6 +49,10 @@ export default function CvPage() {
             <a href={profile.linkedin} className="underline">
               {profile.linkedinLabel}
             </a>
+            {" | "}
+            <a href={profile.portfolioUrl} className="underline">
+              {profile.portfolioLabel}
+            </a>
           </p>
         </header>
 
